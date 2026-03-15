@@ -55,4 +55,4 @@ Al terminar esta guía serás capaz de:
 
 ---
 
-[← Volver al índice general](../00-index.md) | [Empezar →](01-herramientas-comparativa.md)
+[← Volver al índice general](../README.md) | [Empezar →](01-herramientas-comparativa.md)
