@@ -53,4 +53,4 @@ Esta guía cubre desde la instalación hasta la integración con el IDE, incluye
 
 ---
 
-[← Volver al índice general](../00-index.md) | [Empezar: ¿Qué es GitHub Copilot CLI? →](01-que-es.md)
+[← Volver al índice general](../README.md) | [Empezar: ¿Qué es GitHub Copilot CLI? →](01-que-es.md)
